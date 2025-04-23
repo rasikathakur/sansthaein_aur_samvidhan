@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "608034788331",
+    "project_id": "sansthaeinsamvidhan-e3f81",
+    "storage_bucket": "sansthaeinsamvidhan-e3f81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608034788331:android:cbf1344763f07ad6eb3fae",
+        "android_client_info": {
+          "package_name": "com.example.sansthaein_samvidhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608034788331-4kq33sl7iiqd1rpg6obvanq73pau7jkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWE6MQYGeUyRTgcbsmpBLOFING5T0SqvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608034788331-4kq33sl7iiqd1rpg6obvanq73pau7jkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608034788331-f1l23fm4el86n45gm4cri73hq1jh6300.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sansthaeinSamvidhan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
